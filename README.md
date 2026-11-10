@@ -1,4 +1,4 @@
-# Condor OTC / Condor Capitals: Case Study
+# Condor OTC: Case Study
 
 > Cross-border payments and exchange platform. I built the financial integrations and the tooling the international desk runs on.
 
@@ -37,4 +37,4 @@ Live in production, supporting real international operations across multiple cur
 
 ---
 
-Built and led by [Nahuel Soria](https://github.com/nahuelsoria) · [LinkedIn](https://www.linkedin.com/in/nahuelsoria/)
+Built and led by [Nahuel Soria](https://nahuelsoria.com/en) · [GitHub](https://github.com/nahuelsoria) · [LinkedIn](https://www.linkedin.com/in/nahuelsoria/)
