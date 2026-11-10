@@ -2,6 +2,8 @@
 
 > Cross-border payments and exchange platform. I built the financial integrations and the tooling the international desk runs on.
 
+**The current version of this case study is on my site: [nahuelsoria.com/en/proyectos/condor-otc](https://nahuelsoria.com/en/proyectos/condor-otc).**
+
 This repository is a public case study of work I led. It contains no proprietary code or confidential data, only an overview of the product, my role, and the engineering approach.
 
 ## Overview
